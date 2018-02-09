@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "545667109881",
+    "firebase_url": "https://chatapp4-dfd39.firebaseio.com",
+    "project_id": "chatapp4-dfd39",
+    "storage_bucket": "chatapp4-dfd39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545667109881:android:37135a38c8b7f546",
+        "android_client_info": {
+          "package_name": "com.example.sarada.chatapp4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545667109881-tvpb61png5kkvo9et58p0negp3rku1ad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sarada.chatapp4",
+            "certificate_hash": "d6564d14110ffb79c5bf1e6438a3965f4f829248"
+          }
+        },
+        {
+          "client_id": "545667109881-5tvv23kj93c8h9mesighju1ti3kan23v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJRb39jcbGnhPkh9_UN-NXaKIAszo5flA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545667109881-5tvv23kj93c8h9mesighju1ti3kan23v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
